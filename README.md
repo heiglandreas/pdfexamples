@@ -7,4 +7,4 @@ These Examples currently use TCPDF and PDFlib.
 To use the TCPDF simply execute ```composer install```. 
 To use the PDFlib you will have to install the PDFlib into your PHP-Environment. Simply download the test-library at http://pdflib.com and follow their installation instructions
 
-Then you should be able to call the pdflib.php or tcpdflib.php-file in your browser and get a PDF-file
+Then you should be able to call the ```pdflib.php``` or ```tcpdf.php```-file in your browser and get a PDF-file
